@@ -1,8 +1,5 @@
 import streamlit as st
 
-
-import streamlit as st
-
 def main():
     st.title("Kalkulator Sederhana")
     st.write("Aplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
